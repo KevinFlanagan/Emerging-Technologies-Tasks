@@ -12,5 +12,5 @@ Complete the task of using Chi-squared to show the analyse of two categories to 
 Research STDEV.P and STDEV.S and show why STDEV.S is the better function to estimate the standard deviation on a population.  
 
 ### Task 4 K-Means Cluster using Fishers Iris data set
-Apply K-Means to a cluster with Fishers Isis data set used to make predictions of a species of iris.
+Apply kNN to a cluster with Fishers Isis data set used to make predictions of a species of iris.
 
